@@ -30,126 +30,99 @@ Passionate about crafting responsive, user-friendly web applications with clean 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kananjn45&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="Kanan's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kananjn45&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kananjn45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kananjn45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kananjn45&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kananjn45&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kananjn45&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/kananjn45/sapphire-digital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kananjn45&repo=sapphire-digital&theme=radical&hide_border=true" alt="Sapphire Digital"/>
-  </a>
-  <a href="https://github.com/kananjn45/book-haven">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kananjn45&repo=book-haven&theme=radical&hide_border=true" alt="Book Haven"/>
-  </a>
-</p>
-
-### 💎 Sapphire Digital Invites
+### 💎 [Sapphire Digital Invites](https://github.com/kananjn45/sapphire-digital)
 Stylish, customizable digital invitations for weddings, parties, and events. Easily design, personalize, and share your invites online—perfect for modern celebrations!
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-### 📚 Book Haven
+### 📚 [Book Haven](https://github.com/kananjn45/book-haven)
 A responsive front-end bookstore website showcasing a searchable, filterable book catalogue with featured titles and a simple cart counter.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
-## 📈 Contribution Activity
+## 💡 What I'm Up To
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kananjn45&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nnykvqfkgjr7zl2xzanstw5d5q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
-</p>
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kanan-jain-762785298" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/kanann___.12" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/kananjn45" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-## 💡 Fun Facts
-
-- 🎯 Currently focusing on mastering full-stack development
-- 🌱 I'm learning **React** and **Node.js** to level up my skills
-- 💻 I love building projects that combine beautiful UI with solid functionality
-- 🎨 Passionate about creating pixel-perfect, responsive designs
-- ⚡ Fun fact: I believe great code is like poetry - it should be elegant and purposeful!
+- 🌱 Currently learning **React** and **Node.js** to build full-stack applications
+- 💻 Building projects that combine beautiful UI with solid functionality
+- 🎯 Working towards becoming a proficient full-stack developer
 - 🔥 Always eager to collaborate on interesting projects
+- 🎨 Passionate about creating pixel-perfect, responsive designs
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2025 Goals
 
-```diff
-+ Master React and build modern SPAs
-+ Contribute to open source projects
-+ Learn backend development with Node.js and Express
-+ Build a full-stack portfolio project
-+ Connect with fellow developers and collaborate
+```
+✓ Master React and build modern SPAs
+✓ Contribute to open source projects
+✓ Learn backend development with Node.js and Express
+✓ Build a full-stack portfolio project
+✓ Connect with fellow developers and collaborate
 ```
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanan-jain-762785298)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kanann___.12)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kananjn45)
+
+---
+
+## ⚡ Fun Facts
+
+- I believe great code is like poetry - it should be elegant and purposeful!
+- My debugging process: 90% googling, 10% actually fixing the bug 😅
+- Coffee is my co-programmer ☕
+- I'm always up for learning new technologies and tackling challenging problems
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ and lots of ☕</b>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
+  <b>Thanks for visiting my profile! Feel free to reach out if you want to collaborate on something cool! 🚀</b>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+</p>
+
+---
+
+<div align="center">
+  Made with ❤️ and lots of ☕ by Kanan Jain
 </div>
