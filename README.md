@@ -30,7 +30,6 @@ Passionate about crafting responsive, user-friendly web applications with clean 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kananjn45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kananjn45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
