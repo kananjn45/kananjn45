@@ -30,7 +30,7 @@ Passionate about crafting responsive, user-friendly web applications with clean 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kananjn45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kananjn45&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 </p>
 
 <p align="center">
