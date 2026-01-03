@@ -30,20 +30,11 @@ Passionate about crafting responsive, user-friendly web applications with clean 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kananjn45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kananjn45&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=kananjn45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kananjn45&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kananjn45&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -88,18 +79,6 @@ A responsive front-end bookstore website showcasing a searchable, filterable boo
 
 ---
 
-## 🎯 2025 Goals
-
-```
-✓ Master React and build modern SPAs
-✓ Contribute to open source projects
-✓ Learn backend development with Node.js and Express
-✓ Build a full-stack portfolio project
-✓ Connect with fellow developers and collaborate
-```
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -111,6 +90,17 @@ A responsive front-end bookstore website showcasing a searchable, filterable boo
   </a>
   <a href="https://github.com/kananjn45">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://open.spotify.com/user/31hekagaeenbnyijyxzsxglpvc3y">
+    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+</p>
+
+### 🎵 Currently Vibing To
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31hekagaeenbnyijyxzsxglpvc3y">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hekagaeenbnyijyxzsxglpvc3y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </p>
 
