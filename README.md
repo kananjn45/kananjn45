@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kananjn45&color=blueviolet&style=flat-square&label=Profile+Views)
 
-### 🎯 Frontend-to-Fullstack Developer | BCA @ IITM Delhi (2024-2029)
+### 🎯 Frontend Developer | Data Enthusiast | BCA @ IITM Delhi (2025-2028)
 
 ---
 
@@ -12,18 +12,19 @@
 const kananJain = {
     location: "Delhi, India",
     education: "BCA @ IITM Delhi",
-    currentFocus: "Responsive Web Applications",
-    interests: ["Web Development", "UI/UX Design", "Full-Stack Development"],
+    currentFocus: ["Web Development", "Data Analysis"],
+    interests: ["Frontend Development", "Data Science", "UI/UX Design"],
     technologies: {
-        frontend: ["HTML5", "CSS3", "JavaScript ES6", "Bootstrap"],
-        tools: ["Git", "GitHub"],
-        learning: ["React", "Node.js", "Full-Stack Development"]
+        frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
+        dataScience: ["Python", "Pandas", "NumPy", "Matplotlib"],
+        tools: ["Git", "GitHub", "VS Code", "Google Colab"],
+        learning: ["React", "Node.js", "Machine Learning"]
     },
-    funFact: "I turn coffee into code! ☕→💻"
+    funFact: "I turn coffee into code and data into insights! ☕→💻📊"
 };
 ```
 
-Passionate about crafting responsive, user-friendly web applications with clean code and beautiful design. Currently on a journey from frontend to full-stack development, building projects that solve real-world problems.
+Passionate about building responsive web applications and analyzing data to uncover meaningful insights. Currently exploring the intersection of web development and data science, creating projects that combine beautiful interfaces with powerful analytics.
 
 ---
 
@@ -46,8 +47,9 @@ Passionate about crafting responsive, user-friendly web applications with clean 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -57,24 +59,30 @@ Passionate about crafting responsive, user-friendly web applications with clean 
 
 ## 🚀 Featured Projects
 
-### 💎 [Sapphire Digital Invites](https://github.com/kananjn45/sapphire-digital)
-Stylish, customizable digital invitations for weddings, parties, and events. Easily design, personalize, and share your invites online—perfect for modern celebrations!
+### 📊 [Climate Change Analysis](https://github.com/kananjn45/climate-change-analysis)
+Comprehensive Python-based analysis of climate patterns (2020-2024) featuring 8 interactive visualizations exploring temperature trends, CO2 correlations, precipitation patterns, and environmental indices.
 
-**Tech Stack:** HTML, CSS, JavaScript
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Data Analysis
+
+### 💎 [Sapphire Digital Invites](https://github.com/kananjn45/sapphire-digital)
+Stylish, customizable digital invitations for weddings, parties, and events. Fully responsive design with mobile-friendly navigation and clean grid layouts.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Responsive Design
 
 ### 📚 [Book Haven](https://github.com/kananjn45/book-haven)
-A responsive front-end bookstore website showcasing a searchable, filterable book catalogue with featured titles and a simple cart counter.
+E-commerce bookstore frontend with dynamic catalogue, category filtering, interactive shopping cart with quantity management, and cart persistence using vanilla JavaScript.
 
-**Tech Stack:** HTML, CSS, JavaScript
+**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap 5
 
 ---
 
 ## 💡 What I'm Up To
 
-- 🌱 Currently learning **React** and **Node.js** to build full-stack applications
-- 💻 Building projects that combine beautiful UI with solid functionality
-- 🎯 Working towards becoming a proficient full-stack developer
-- 🔥 Always eager to collaborate on interesting projects
+- 🌱 Currently learning **React** and **Node.js** for full-stack development
+- 📊 Exploring **data science** and **machine learning** concepts
+- 💻 Building projects that combine web development with data analysis
+- 🎯 Working on improving my Python skills for data visualization
+- 🔥 Always eager to collaborate on interesting web or data projects
 - 🎨 Passionate about creating pixel-perfect, responsive designs
 
 ---
@@ -82,17 +90,17 @@ A responsive front-end bookstore website showcasing a searchable, filterable boo
 ## 📫 Connect With Me
 
 <p align="center">
+  <a href="https://kananjn45.github.io/portfolio-website/">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/kanan-jain-762785298">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:kananjn45@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://www.instagram.com/enchanted_kanann">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/kananjn45">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://open.spotify.com/user/31hekagaeenbnyijyxzsxglpvc3y">
-    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
 </p>
 
@@ -103,7 +111,8 @@ A responsive front-end bookstore website showcasing a searchable, filterable boo
 - I believe great code is like poetry - it should be elegant and purposeful!
 - My debugging process: 90% googling, 10% actually fixing the bug 😅
 - Coffee is my co-programmer ☕
-- I'm always up for learning new technologies and tackling challenging problems
+- I love finding patterns in data as much as I love building beautiful UIs
+- Currently on a mission to master both frontend and data science!
 
 ---
 
