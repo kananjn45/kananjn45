@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kananjn45&color=blueviolet&style=flat-square&label=Profile+Views)
 
-### 🎯 Frontend Developer | Data Enthusiast | BCA @ IITM Delhi (2025-2028)
+### 🎯 Frontend-to-Fullstack Developer | BCA @ IITM Delhi (2024-2029)
 
 ---
 
@@ -11,20 +11,21 @@
 ```javascript
 const kananJain = {
     location: "Delhi, India",
-    education: "BCA @ IITM Delhi",
-    currentFocus: ["Web Development", "Data Analysis"],
-    interests: ["Frontend Development", "Data Science", "UI/UX Design"],
+    education: "BCA @ IITM Delhi (2024-2029)",
+    currentFocus: ["Fullstack Development", "Financial Applications", "UI/UX Design"],
+    interests: ["Frontend Development", "Backend Development", "Data Analysis"],
     technologies: {
-        frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
-        dataScience: ["Python", "Pandas", "NumPy", "Matplotlib"],
-        tools: ["Git", "GitHub", "VS Code", "Google Colab"],
-        learning: ["React", "Node.js", "Machine Learning"]
+        frontend: ["HTML5", "CSS3", "JavaScript ES6", "Bootstrap 5"],
+        backend: ["PHP", "Python"],
+        dataScience: ["Pandas", "NumPy", "Matplotlib"],
+        tools: ["Git", "GitHub", "VS Code", "Netlify"],
+        learning: ["React", "Node.js", "MySQL"]
     },
-    funFact: "I turn coffee into code and data into insights! ☕→💻📊"
+    funFact: "I turn coffee into code and ideas into polished applications! ☕→💻✨"
 };
 ```
 
-Passionate about building responsive web applications and analyzing data to uncover meaningful insights. Currently exploring the intersection of web development and data science, creating projects that combine beautiful interfaces with powerful analytics.
+Passionate frontend-to-fullstack developer building responsive web applications with elegant interfaces and robust functionality. Specializing in financial management tools, e-commerce platforms, and data-driven solutions that solve real-world problems.
 
 ---
 
@@ -46,6 +47,7 @@ Passionate about building responsive web applications and analyzing data to unco
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -59,31 +61,72 @@ Passionate about building responsive web applications and analyzing data to unco
 
 ## 🚀 Featured Projects
 
-### 📊 [Climate Change Analysis](https://github.com/kananjn45/climate-change-analysis)
-Comprehensive Python-based analysis of climate patterns (2020-2024) featuring 8 interactive visualizations exploring temperature trends, CO2 correlations, precipitation patterns, and environmental indices.
+### 💰 [Expense Tracker](https://github.com/kananjn45/Expense-Tracker)
+A premium, intuitive financial management platform designed to help users master their money with precision and control.
 
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Data Analysis
+**Key Features:**
+- 📊 Track expenses with detailed categorization and visualization
+- 💳 Set and monitor budgets across multiple categories
+- 📈 Visual financial health dashboard with charts and insights
+- 🔐 Secure user authentication and data management
+- 📱 Responsive design for seamless mobile and desktop experience
 
-### 💎 [Sapphire Digital Invites](https://github.com/kananjn45/sapphire-digital)
-Stylish, customizable digital invitations for weddings, parties, and events. Fully responsive design with mobile-friendly navigation and clean grid layouts.
+**Tech Stack:** PHP, HTML5, CSS3, JavaScript, MySQL
+
+**Impact:** Empowers users to take control of their finances through intuitive expense tracking and budget management.
+
+---
+
+### 📚 [Book Haven](https://github.com/kananjn45/book-haven)
+**[Live Demo](https://kananjn45.github.io/book-haven/)** | A fully responsive e-commerce bookstore featuring dynamic catalogue management and interactive shopping experience.
+
+**Key Features:**
+- 🔍 Real-time search functionality by title and author
+- 📂 Advanced category-based filtering system
+- 🛒 Interactive shopping cart with quantity management
+- 💾 Cart persistence using local storage
+- 📱 Fully responsive CSS Grid layout with Bootstrap 5
+- ⚡ Pure vanilla JavaScript - no frameworks required
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap 5, CSS Grid
+
+**Impact:** Demonstrates modern frontend development practices with clean architecture and excellent user experience.
+
+---
+
+### 🎨 [Portfolio Website](https://github.com/kananjn45/portfolio-website)
+**[Live Demo](https://kananjn45.github.io/portfolio-website/)** | A modern, personal portfolio showcasing projects, skills, and professional journey with stunning UI/UX design.
+
+**Key Features:**
+- ✨ Modern, eye-catching design with smooth animations
+- 📱 Fully responsive across all devices
+- 🎯 Interactive project showcase with live demos
+- 💼 Professional presentation of skills and experience
+- 🚀 Optimized performance and fast loading times
+- 🎨 Custom-built from scratch with attention to detail
 
 **Tech Stack:** HTML5, CSS3, JavaScript, Responsive Design
 
-### 📚 [Book Haven](https://github.com/kananjn45/book-haven)
-E-commerce bookstore frontend with dynamic catalogue, category filtering, interactive shopping cart with quantity management, and cart persistence using vanilla JavaScript.
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap 5
+**Impact:** Serves as a comprehensive showcase of technical skills and design capabilities, built with passion and precision.
 
 ---
 
 ## 💡 What I'm Up To
 
-- 🌱 Currently learning **React** and **Node.js** for full-stack development
-- 📊 Exploring **data science** and **machine learning** concepts
-- 💻 Building projects that combine web development with data analysis
-- 🎯 Working on improving my Python skills for data visualization
-- 🔥 Always eager to collaborate on interesting web or data projects
-- 🎨 Passionate about creating pixel-perfect, responsive designs
+- 🌱 Currently mastering **PHP** and **MySQL** for backend development
+- 💻 Building full-stack financial management applications
+- 🎯 Exploring advanced **JavaScript** frameworks like React
+- 📊 Integrating data visualization into web applications
+- 🔥 Always eager to collaborate on innovative web projects
+- 🎨 Passionate about creating pixel-perfect, user-centric designs
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark"/>
+</p>
 
 ---
 
@@ -108,11 +151,54 @@ E-commerce bookstore frontend with dynamic catalogue, category filtering, intera
 
 ## ⚡ Fun Facts
 
-- I believe great code is like poetry - it should be elegant and purposeful!
-- My debugging process: 90% googling, 10% actually fixing the bug 😅
-- Coffee is my co-programmer ☕
-- I love finding patterns in data as much as I love building beautiful UIs
-- Currently on a mission to master both frontend and data science!
+- 💡 I believe great code is like poetry - elegant, purposeful, and impactful!
+- 🐛 My debugging process: 90% problem-solving, 10% caffeine-fueled breakthroughs 😅
+- ☕ Coffee is my co-programmer and creative catalyst
+- 🎨 I love crafting beautiful UIs as much as architecting robust backends
+- 🚀 Currently on a mission to master fullstack development!
+- 🌟 Always looking for the next challenge and learning opportunity
+
+---
+
+## 📈 2025 Learning Roadmap
+
+```javascript
+const learningGoals = {
+    immediate: [
+        "Master PHP and MySQL for backend development",
+        "Build production-ready fullstack applications",
+        "Deepen understanding of data structures & algorithms"
+    ],
+    shortTerm: [
+        "Learn React for modern frontend development",
+        "Explore Node.js and Express.js",
+        "Implement advanced authentication systems"
+    ],
+    longTerm: [
+        "Contribute to open-source projects",
+        "Build a comprehensive SaaS platform",
+        "Master cloud deployment (AWS/Azure)"
+    ]
+};
+```
+
+---
+
+## 🔥 More Projects
+
+<details>
+<summary>Click to see additional projects</summary>
+
+### 📊 [Climate Change Analysis](https://github.com/kananjn45/climate-change-analysis)
+Python-based climate data analysis with 8 interactive visualizations exploring temperature trends, CO2 correlations, and environmental patterns (2020-2024).
+
+### 💎 [Sapphire Digital Invites](https://github.com/kananjn45/sapphire-digital)
+**[Live Demo](https://sapphire-digital.netlify.app/)** | Elegant digital invitation platform for weddings and events with customizable templates and modern design.
+
+### 🎮 [Adventure Game](https://github.com/kananjn45/adventure-game)
+Interactive GUI-based dungeon adventure game built with Python and Tkinter, featuring choice-driven gameplay and treasure hunting mechanics.
+
+</details>
 
 ---
 
