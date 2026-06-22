@@ -13,7 +13,7 @@ const kananJain = {
     location: "Delhi, India",
     education: "BCA @ IITM Delhi (2024-2029)",
     currentFocus: ["Fullstack Development", "Financial Applications", "UI/UX Design"],
-    interests: ["Frontend Development", "Backend Development", "Data Analysis"],
+    interests: ["Frontend Development", "Backend Development", "AI/ML"],
     technologies: {
         frontend: ["HTML5", "CSS3", "JavaScript ES6", "Bootstrap 5"],
         backend: ["PHP", "Python"],
