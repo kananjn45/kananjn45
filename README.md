@@ -95,7 +95,7 @@ A premium, intuitive financial management platform designed to help users master
 ---
 
 ### 🎨 [Portfolio Website](https://github.com/kananjn45/portfolio-website)
-**[Live Demo](https://kananjn45.github.io/portfolio-website/)** | A modern, personal portfolio showcasing projects, skills, and professional journey with stunning UI/UX design.
+**[Live Demo](https://kananjn45.github.io/Profile/)** | A modern, personal portfolio showcasing projects, skills, and professional journey with stunning UI/UX design.
 
 **Key Features:**
 - ✨ Modern, eye-catching design with smooth animations
