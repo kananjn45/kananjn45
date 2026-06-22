@@ -1,8 +1,12 @@
+<div align="center">
+
 # Hi there, I'm Kanan Jain! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=kananjn45&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=kananjn45&color=C084B0&style=flat-square&label=Profile+Views)
 
-### 🎯 Frontend-to-Fullstack Developer | BCA @ IITM Delhi (2024-2029)
+### 🎯 Frontend + Firebase Lead | BCA @ IITM Delhi (2025–2030)
+
+</div>
 
 ---
 
@@ -11,21 +15,20 @@
 ```javascript
 const kananJain = {
     location: "Delhi, India",
-    education: "BCA @ IITM Delhi (2024-2029)",
-    currentFocus: ["Fullstack Development", "Financial Applications", "UI/UX Design"],
-    interests: ["Frontend Development", "Backend Development", "AI/ML"],
+    education: "BCA @ IITM Delhi (2025–2030)",
+    currentFocus: ["AI-Powered Products", "Firebase Architecture", "Hackathons"],
+    interests: ["Frontend Development", "Full-Stack", "AI/ML Integration"],
     technologies: {
-        frontend: ["HTML5", "CSS3", "JavaScript ES6", "Bootstrap 5"],
-        backend: ["PHP", "Python"],
-        dataScience: ["Pandas", "NumPy", "Matplotlib"],
-        tools: ["Git", "GitHub", "VS Code", "Netlify"],
-        learning: ["React", "Node.js", "MySQL"]
+        frontend: ["HTML5", "CSS3", "JavaScript ES6+", "React", "Bootstrap 5"],
+        backend: ["Firebase (Auth & Firestore)", "Python", "PHP", "SQL"],
+        aiTools: ["OpenCV", "DeepFace", "Pandas", "NumPy", "Matplotlib"],
+        tools: ["Git", "GitHub", "VS Code", "Vercel", "Netlify", "Chrome DevTools"],
     },
-    funFact: "I turn coffee into code and ideas into polished applications! ☕→💻✨"
+    funFact: "I ship AI products at hackathon speed and call it a weekend 🚀"
 };
 ```
 
-Passionate frontend-to-fullstack developer building responsive web applications with elegant interfaces and robust functionality. Specializing in financial management tools, e-commerce platforms, and data-driven solutions that solve real-world problems.
+I build AI-powered products that actually ship. Frontend and Firebase lead on **Cognify** — real-time emotion detection for neurodivergent kids. Hackathons are my rhythm.
 
 ---
 
@@ -44,89 +47,127 @@ Passionate frontend-to-fullstack developer building responsive web applications 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🧠 [Cognify: AI-Powered Adaptive Learning Platform](https://cognify-fawn.vercel.app)
+An AI platform for children with ADHD, ASD, and Dyslexia — built under a 36-hour hackathon sprint.
+
+**Key Features:**
+- 🎥 Real-time emotion detection via OpenCV + DeepFace at 50ms refresh cycles
+- 🔐 Firebase Auth with 3 user roles (student, parent, provider) and secured Firestore queries
+- 🗄️ Co-architected 11-collection Firestore schema with null-safe security rules
+- 📊 Role-specific dashboards for adaptive learning adjustments
+- 🚀 Production-deployed on Vercel under tight hackathon timeline
+
+**Tech Stack:** React, Firebase (Auth & Firestore), Python, OpenCV, DeepFace, Vercel
+
+---
+
+### 🗳️ [ElectionWise: AI Election Guidance Assistant](https://election-wise-cff9.vercel.app)
+Built for hack2skills Promptwars 2026 — an AI-powered assistant to help voters navigate elections with clarity.
+
+**Tech Stack:** Python, Vercel
+
+---
+
+### 💎 [Sapphire Digital Cards](https://sapphire-digital.netlify.app)
+Elegant digital invitation platform for weddings and events.
+
+**Key Features:**
+- 📱 3 invitation templates (static, short video, long video) with mobile-optimized video playback
+- ✅ WCAG AA compliance across all 12 invitation variations
+- 💾 Custom form validation and state persistence via localStorage
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Netlify
+
+---
+
+### 📊 [Climate Change Analysis Dashboard](https://github.com/kananjn45/climate-change-analysis)
+Data-driven dashboard exposing climate patterns over 120K+ data points (2020–2024).
+
+**Key Features:**
+- 📈 8 interactive visualizations revealing CO2 rise trends and temperature correlations
+- 🔍 Multi-axis correlation analysis and outlier detection
+- 🎨 Publication-ready visualizations with custom color schemes and statistical annotations
+
+**Tech Stack:** Python, Pandas, Matplotlib
+
+---
+
 ### 💰 [Expense Tracker](https://github.com/kananjn45/Expense-Tracker)
-A premium, intuitive financial management platform designed to help users master their money with precision and control.
+Full-stack financial management platform with multi-category budgeting, secure auth, and visual dashboards.
 
-**Key Features:**
-- 📊 Track expenses with detailed categorization and visualization
-- 💳 Set and monitor budgets across multiple categories
-- 📈 Visual financial health dashboard with charts and insights
-- 🔐 Secure user authentication and data management
-- 📱 Responsive design for seamless mobile and desktop experience
-
-**Tech Stack:** PHP, HTML5, CSS3, JavaScript, MySQL
-
-**Impact:** Empowers users to take control of their finances through intuitive expense tracking and budget management.
+**Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript
 
 ---
 
-### 📚 [Book Haven](https://github.com/kananjn45/book-haven)
-**[Live Demo](https://kananjn45.github.io/book-haven/)** | A fully responsive e-commerce bookstore featuring dynamic catalogue management and interactive shopping experience.
+### 📚 [Book Haven](https://kananjn45.github.io/book-haven/)
+Fully responsive e-commerce bookstore — zero frameworks, pure vanilla JS.
 
 **Key Features:**
-- 🔍 Real-time search functionality by title and author
-- 📂 Advanced category-based filtering system
-- 🛒 Interactive shopping cart with quantity management
-- 💾 Cart persistence using local storage
-- 📱 Fully responsive CSS Grid layout with Bootstrap 5
-- ⚡ Pure vanilla JavaScript - no frameworks required
+- 🔍 Real-time search by title and author
+- 🛒 Shopping cart with quantity management and localStorage persistence
+- 📱 CSS Grid layout with Bootstrap 5
 
-**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap 5, CSS Grid
-
-**Impact:** Demonstrates modern frontend development practices with clean architecture and excellent user experience.
+**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap 5
 
 ---
 
-### 🎨 [Portfolio Website](https://github.com/kananjn45/portfolio-website)
-**[Live Demo](https://kananjn45.github.io/Profile/)** | A modern, personal portfolio showcasing projects, skills, and professional journey with stunning UI/UX design.
+## 🏆 Hackathons & Competitions
 
-**Key Features:**
-- ✨ Modern, eye-catching design with smooth animations
-- 📱 Fully responsive across all devices
-- 🎯 Interactive project showcase with live demos
-- 💼 Professional presentation of skills and experience
-- 🚀 Optimized performance and fast loading times
-- 🎨 Custom-built from scratch with attention to detail
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Responsive Design
-
-**Impact:** Serves as a comprehensive showcase of technical skills and design capabilities, built with passion and precision.
+- 🥇 **hack2skills Promptwars (2026)** — Built and deployed ElectionWise, an AI election guidance assistant
+- ⚡ **Matrix Hackathon (April 2026)** — Frontend + Firebase lead on Cognify; shipped production system with real-time emotion detection in 36 hours
+- 🎖️ **Dextrix Hackathon (February 2026)** — Top 6 out of 75 teams
 
 ---
 
 ## 💡 What I'm Up To
 
-- 🌱 Currently mastering **PHP** and **MySQL** for backend development
-- 💻 Building full-stack financial management applications
-- 🎯 Exploring advanced **JavaScript** frameworks like React
-- 📊 Integrating data visualization into web applications
-- 🔥 Always eager to collaborate on innovative web projects
-- 🎨 Passionate about creating pixel-perfect, user-centric designs
+- 🔥 Deepening expertise in **React** and **Firebase architecture**
+- 🤖 Integrating AI/ML into real-world web products
+- 📊 Expanding into data science with Python (Pandas, scikit-learn)
+- 🎨 Building pixel-perfect, accessible UIs
+- 🚀 Always ready for the next hackathon
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 2026 Roadmap
 
-<p align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark"/>
-</p>
+```javascript
+const goals = {
+    now: [
+        "Master React + Firebase for production-grade apps",
+        "Ship more AI-integrated projects",
+        "Deepen Data Structures & Algorithms"
+    ],
+    soon: [
+        "Explore Node.js and REST API design",
+        "Build a full ML pipeline (data → model → deployment)",
+        "Contribute to open-source"
+    ],
+    later: [
+        "Build a SaaS product from scratch",
+        "Master cloud deployment (AWS/GCP)",
+        "Land a meaningful internship in product/dev"
+    ]
+};
+```
 
 ---
 
@@ -134,16 +175,16 @@ A premium, intuitive financial management platform designed to help users master
 
 <p align="center">
   <a href="https://kananjn45.github.io/portfolio-website/">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-0C0B11?style=for-the-badge&logo=google-chrome&logoColor=C084B0"/>
   </a>
   <a href="https://www.linkedin.com/in/kanan-jain-762785298">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kananjn45@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/enchanted_kanann">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -151,72 +192,21 @@ A premium, intuitive financial management platform designed to help users master
 
 ## ⚡ Fun Facts
 
-- 💡 I believe great code is like poetry - elegant, purposeful, and impactful!
-- 🐛 My debugging process: 90% problem-solving, 10% caffeine-fueled breakthroughs 😅
-- ☕ Coffee is my co-programmer and creative catalyst
-- 🎨 I love crafting beautiful UIs as much as architecting robust backends
-- 🚀 Currently on a mission to master fullstack development!
-- 🌟 Always looking for the next challenge and learning opportunity
-
----
-
-## 📈 2025 Learning Roadmap
-
-```javascript
-const learningGoals = {
-    immediate: [
-        "Master PHP and MySQL for backend development",
-        "Build production-ready fullstack applications",
-        "Deepen understanding of data structures & algorithms"
-    ],
-    shortTerm: [
-        "Learn React for modern frontend development",
-        "Explore Node.js and Express.js",
-        "Implement advanced authentication systems"
-    ],
-    longTerm: [
-        "Contribute to open-source projects",
-        "Build a comprehensive SaaS platform",
-        "Master cloud deployment (AWS/Azure)"
-    ]
-};
-```
-
----
-
-## 🔥 More Projects
-
-<details>
-<summary>Click to see additional projects</summary>
-
-### 📊 [Climate Change Analysis](https://github.com/kananjn45/climate-change-analysis)
-Python-based climate data analysis with 8 interactive visualizations exploring temperature trends, CO2 correlations, and environmental patterns (2020-2024).
-
-### 💎 [Sapphire Digital Invites](https://github.com/kananjn45/sapphire-digital)
-**[Live Demo](https://sapphire-digital.netlify.app/)** | Elegant digital invitation platform for weddings and events with customizable templates and modern design.
-
-### 🎮 [Adventure Game](https://github.com/kananjn45/adventure-game)
-Interactive GUI-based dungeon adventure game built with Python and Tkinter, featuring choice-driven gameplay and treasure hunting mechanics.
-
-</details>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+- 🧠 I shipped an emotion-detection AI for kids at a hackathon — and it actually worked
+- 🐛 Debugging is just archaeology with more coffee ☕
+- 🎨 I care as much about the UI feeling right as the code being clean
+- 🏆 Top 6 out of 75 teams and still hungry for more
+- 🚀 If it doesn't ship, it didn't happen
 
 ---
 
 <div align="center">
-  <b>Thanks for visiting my profile! Feel free to reach out if you want to collaborate on something cool! 🚀</b>
+  <b>Thanks for stopping by! Always open to collabs, hackathons, and interesting problems. 🚀</b>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer Wave" />
 </p>
-
----
 
 <div align="center">
   Made with ❤️ and lots of ☕ by Kanan Jain
