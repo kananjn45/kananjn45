@@ -174,7 +174,7 @@ const goals = {
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://kananjn45.github.io/portfolio-website/">
+  <a href="https://kananjn45.github.io/Profile/">
     <img src="https://img.shields.io/badge/-Portfolio-0C0B11?style=for-the-badge&logo=google-chrome&logoColor=C084B0"/>
   </a>
   <a href="https://www.linkedin.com/in/kanan-jain-762785298">
