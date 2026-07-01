@@ -161,7 +161,8 @@ const goals = {
     "Build a full ML pipeline (data → model → deployment)",
     "Contribute to open-source"
   ]
-};```
+};
+```
 
 ---
 
