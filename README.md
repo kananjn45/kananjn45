@@ -19,7 +19,7 @@ const kananJain = {
     currentFocus: ["AI-Powered Products", "Firebase Architecture", "Hackathons"],
     interests: ["Frontend Development", "Full-Stack", "AI/ML Integration"],
     technologies: {
-        frontend: ["HTML5", "CSS3", "JavaScript ES6+", "React", "Bootstrap 5"],
+        frontend: ["HTML5", "CSS3", "JavaScript ES6+", "Bootstrap 5"],
         backend: ["Firebase (Auth & Firestore)", "Python", "PHP", "SQL"],
         aiTools: ["OpenCV", "DeepFace", "Pandas", "NumPy", "Matplotlib"],
         tools: ["Git", "GitHub", "VS Code", "Vercel", "Netlify", "Chrome DevTools"],
@@ -50,7 +50,6 @@ I build AI-powered products that actually ship. Frontend and Firebase lead on **
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -139,7 +138,7 @@ Fully responsive e-commerce bookstore — zero frameworks, pure vanilla JS.
 
 ## 💡 What I'm Up To
 
-- 🔥 Deepening expertise in **React** and **Firebase architecture**
+- 🔥 Deepening expertise in **JavaScript** and **Firebase architecture**
 - 🤖 Integrating AI/ML into real-world web products
 - 📊 Expanding into data science with Python (Pandas, scikit-learn)
 - 🎨 Building pixel-perfect, accessible UIs
@@ -151,23 +150,18 @@ Fully responsive e-commerce bookstore — zero frameworks, pure vanilla JS.
 
 ```javascript
 const goals = {
-    now: [
-        "Master React + Firebase for production-grade apps",
-        "Ship more AI-integrated projects",
-        "Deepen Data Structures & Algorithms"
-    ],
-    soon: [
-        "Explore Node.js and REST API design",
-        "Build a full ML pipeline (data → model → deployment)",
-        "Contribute to open-source"
-    ],
-    later: [
-        "Build a SaaS product from scratch",
-        "Master cloud deployment (AWS/GCP)",
-        "Land a meaningful internship in product/dev"
-    ]
-};
-```
+  now: [
+    "Ship more AI-integrated projects",
+    "Deepen Data Structures & Algorithms",
+    "Strengthen Firebase security & architecture patterns"
+  ],
+  soon: [
+    "Learn React for component-based UIs",
+    "Explore Node.js and REST API design",
+    "Build a full ML pipeline (data → model → deployment)",
+    "Contribute to open-source"
+  ]
+};```
 
 ---
 
