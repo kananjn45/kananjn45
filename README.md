@@ -85,27 +85,14 @@ Built for hack2skills Promptwars 2026 — an AI-powered assistant to help voters
 
 ---
 
-### 💎 [Sapphire Digital Cards](https://sapphire-digital.netlify.app)
-Elegant digital invitation platform for weddings and events.
-
+### 📊 [Climate Change Analysis & Prediction](https://github.com/kananjn45/Climate-Change-ML-DA)
+ML-driven analysis of Indian climate patterns across 10 states (2000–2025), with regression and classification models predicting temperature and drought conditions.
 **Key Features:**
-- 📱 3 invitation templates (static, short video, long video) with mobile-optimized video playback
-- ✅ WCAG AA compliance across all 12 invitation variations
-- 💾 Custom form validation and state persistence via localStorage
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Netlify
-
----
-
-### 📊 [Climate Change Analysis Dashboard](https://github.com/kananjn45/climate-change-analysis)
-Data-driven dashboard exposing climate patterns over 120K+ data points (2020–2024).
-
-**Key Features:**
-- 📈 8 interactive visualizations revealing CO2 rise trends and temperature correlations
-- 🔍 Multi-axis correlation analysis and outlier detection
-- 🎨 Publication-ready visualizations with custom color schemes and statistical annotations
-
-**Tech Stack:** Python, Pandas, Matplotlib
+- 🌡️ Temperature regression across 6 models (Linear Regression, Decision Tree, Random Forest, Gradient Boosting, SVR, KNN)
+- ⚠️ Drought classification across 7 models (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, SVC, KNN, GaussianNB), with accuracy comparison across all
+- 📈 EDA visualizations (regplot, scatterplot, boxplot, correlation heatmap) revealing seasonal rainfall patterns and temperature-humidity relationships
+- 🔍 Feature engineering with leakage-aware column selection per target variable
+**Tech Stack:** Python, Pandas, Scikit-learn, Seaborn, Matplotlib
 
 ---
 
