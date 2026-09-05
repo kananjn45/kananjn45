@@ -39,7 +39,7 @@ I build AI-powered products that actually ship. Frontend and Firebase lead on **
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kananjn45&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/kananjn45/kananjn45/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 </p>
 
 ---
