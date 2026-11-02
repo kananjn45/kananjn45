@@ -104,6 +104,6 @@ I am a software developer and BCA student based in Delhi. I care deeply about bu
 
 <div align="center">
 
-<sub>Crafted with intention, empathy, and code. Zero synthetic emojis.</sub>
+<sub>Crafted with intention, empathy, and code. </sub>
 
 </div>
