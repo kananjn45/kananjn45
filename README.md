@@ -2,123 +2,108 @@
 
 # Kanan Jain
 
-A product-minded developer building AI-powered experiences, polished interfaces, and hackathon-ready products.
+**Developer · Problem Solver · BCA Student at IITM Delhi**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kanan-at-work.web.app-84A282?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kanan-at-work.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanan_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanan-jain-762785298)
-[![Email](https://img.shields.io/badge/Email-kananjn45%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kananjn45@gmail.com)
+Building thoughtful web applications, accessible offline tools, and practical AI solutions.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kanan--at--work.web.app-4D684B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kanan-at-work.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanan_Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanan-jain-762785298)
+[![GitHub](https://img.shields.io/badge/GitHub-kananjn45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kananjn45)
+[![Email](https://img.shields.io/badge/Email-kananjn45%40gmail.com-84A282?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kananjn45@gmail.com)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I build digital products that combine strong frontend experience with practical AI and Firebase architecture. My work sits at the intersection of user experience, product thinking, and rapid execution, with a strong bias for shipping projects that matter.
+I am a software developer and BCA student based in Delhi. I care deeply about building software that solves genuine human friction — whether that means engineering offline tools for emergency safety, creating smart voice assistants for local merchants, or building accessible learning companions.
 
-Currently focused on:
-- AI-powered product experiences
-- Frontend and full-stack product development
-- Firebase architecture and workflow design
-- Hackathons, prototypes, and real-world deployment
-
-Education: BCA at IITM Delhi (2025-2030)
+- **Current Focus:** Full-stack web applications, practical on-device AI, and offline-first mobile tools.
+- **Leadership:** Team Leader for BitVerse 404 (SIH 2026 Nominee for ISRO), elected Class Representative at IITM Delhi, and active speaker with the Lafz Debate & Literary Society.
+- **Education:** Bachelor of Computer Applications (BCA), Institute of Information Technology & Management (IITM), affiliated with GGSIP University (2025 – 2028).
+- **Availability:** Open for exciting freelance projects, part-time tech roles, and engineering internships.
 
 ---
 
-## Core Stack
+## Featured Work & Flagship Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+### [ORCA-Intel — Safe Sea Navigation for Fishermen](https://github.com/kananjn45/ORCA-Intel)
+> **Smart India Hackathon 2026 Nominee (ISRO Problem Statement #26176) · Team Leader**
+- Led a 6-member student team (BitVerse 404) addressing coastal maritime safety for small-boat fishermen.
+- Operates 100% offline on Android using a harbor-synced 5.8 MB pack with proactive 15-minute boundary drift warnings.
+- Delivers spoken voice alerts in Hindi, Tamil, and Telugu via Bhashini Voice AI.
+- **Tech Stack:** Flutter, Python, FastAPI, SQLite, Bhashini Voice AI, Haversine Geospatial Geofencing
 
----
+### [Awaaz Mobile — Real-Time Sign Language Interpreter](https://github.com/kananjn45)
+> **Top 6 Finalist · Dextrix Hackathon (Feb 2026)**
+- On-device accessibility app that translates Indian Sign Language (ISL) hand gestures into real-time speech and text.
+- Tracks 21 hand landmarks using MediaPipe and TensorFlow Lite with zero cloud latency.
+- Runs entirely on-device without internet connectivity.
+- **Tech Stack:** Flutter, MediaPipe, TensorFlow Lite, Python, Chaquopy, Android
 
-## Featured Projects
+### [SETU — Smart Soundbox Assistant for Retailers](https://github.com/kananjn45/Setu-AI-Autonomous)
+> **Paytm Build for India Hackathon**
+- Multilingual voice agent that resolves retail payment disputes in under 3 seconds when soundboxes lag at checkout.
+- Shopkeepers ask in their mother tongue (*"Setu, did 500 arrive?"*); SETU reconciles transactions against bank records.
+- Flags spoofed payment screenshots via computer vision before playing confirmation chimes.
+- **Tech Stack:** Python, Sarvam Voice AI, FastAPI, LangGraph, Vision OCR
 
-### [Cognify](https://github.com/kananjn45/Cognify)
-AI-powered adaptive learning companion for children with developmental differences. Built to adjust visual, auditory, and pacing cues in real time based on emotional and engagement signals.
+### [Raksha — Zero-Internet Emergency Mesh Network](https://github.com/kananjn45)
+> **Top 15 Finalist · Nexhack (Sept 2026)**
+- Peer-to-peer phone mesh system built for disaster relief and cellular dead-zones.
+- Relays AES-256 encrypted SOS signals automatically across hops using BLE 5.0 and Wi-Fi Direct.
+- **Tech Stack:** Android, BLE 5.0, Wi-Fi Direct, AES-256 Encryption, Offline Mesh Protocol
 
-Tech: React, Firebase, OpenCV, Python
+### [Cognify — Adaptive Learning Companion for Kids](https://github.com/kananjn45/Cognify)
+> **Matrix Hackathon (April 2026)**
+- Adaptive educational companion for children with neurodivergent and developmental learning differences.
+- Monitors facial emotion cues with OpenCV, dynamically softening colors and slowing pacing when frustration is detected.
+- **Tech Stack:** React.js, Firebase, OpenCV, Python, REST APIs
 
-### [BingeBuddy](https://github.com/kananjn45/BingeBuddy)
-Real-time synchronized video watch party platform with live chat and shared viewing experiences.
-
-Tech: TypeScript, WebSockets, Full-Stack
-
-### [ORCA-Intel](https://github.com/kananjn45/ORCA-Intel)
-Safe sea navigation solution for fishermen with offline alerts and voice-driven assistance.
-
-Tech: Flutter, Python, FastAPI, Firebase, Bhashini Voice AI
-
-### [Climate Change ML & DA](https://github.com/kananjn45/Climate-Change-ML-DA)
-Data analysis and predictive modeling project focused on climate trends and environmental patterns using machine learning and statistical analysis.
-
-Tech: Python, Pandas, Scikit-learn, Jupyter Notebook
-
-### [ElectionWise](https://github.com/kananjn45/Election-Wise)
-AI-driven election guidance assistant designed to help users better understand voting information and civic processes.
-
-Tech: JavaScript, AI integration, Web App
-
-### [Expense Tracker](https://github.com/kananjn45/Expense-Tracker)
-Financial management platform for budgeting, tracking expenses, and visualizing money habits.
-
-Tech: PHP, MySQL, JavaScript, HTML, CSS
-
-### [Book Haven](https://github.com/kananjn45/book-haven)
-Responsive bookstore website with catalogue browsing, cart management, and a strong front-end experience.
-
-Tech: HTML, CSS, JavaScript, Bootstrap
-
-### [Adventure Game](https://github.com/kananjn45/adventure-game)
-Interactive text-and-UI dungeon game built with Python and Tkinter, designed as a playful exploration project.
-
-Tech: Python, Tkinter
+### [BingeBuddy — Synchronized Watch Party Platform](https://github.com/kananjn45/BingeBuddy)
+- Real-time collaborative platform allowing friends to watch synchronized YouTube streams with host controls and live chat.
+- **Tech Stack:** React.js, JavaScript (ES6+), Node.js, Express, Socket.IO, MongoDB
 
 ---
 
-## Product & Engineering Philosophy
+## Technical Toolkit
 
-I care about building experiences that feel polished, useful, and intentional. My process usually blends:
-- strong UI and interaction design
-- real-world problem framing
-- product thinking and rapid iteration
-- technical implementation with maintainability in mind
+<div align="center">
 
-I like projects that combine software engineering with social impact, learning, and clear user value.
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | Python · JavaScript (ES6+) · Dart · SQL · HTML5 · CSS3 · DAX |
+| **Frontend & Mobile** | React.js · Flutter · Tailwind CSS · Bootstrap 5 · Responsive Design · WCAG Accessibility |
+| **AI & Computer Vision** | MediaPipe · OpenCV · Scikit-learn · TensorFlow · Keras · Pandas · NumPy |
+| **Backend & Realtime** | Firebase (Auth & Firestore) · Node.js · Express.js · FastAPI · Socket.IO · REST APIs |
+| **Tools & Platforms** | Git · GitHub · Power BI · Vercel · Vite · Android Studio · VS Code |
 
----
-
-## Achievements
-
-- Frontend + Firebase lead on Cognify
-- Hackathon-driven product building across multiple domains
-- Experience across AI integrations, frontend systems, and data-heavy projects
-- Strong interest in building interesting, deployable products under real constraints
+</div>
 
 ---
 
-## Connect
+## Honors & Milestones
 
-- Portfolio: https://kanan-at-work.web.app/
-- LinkedIn: https://www.linkedin.com/in/kanan-jain-762785298
-- Email: kananjn45@gmail.com
+- **Smart India Hackathon 2026 Nominee (ISRO PS #26176):** Team Leader of BitVerse 404 for ORCA-Intel.
+- **Top 6 Finalist, Dextrix Hackathon (Feb 2026):** Built Awaaz Mobile real-time sign language translator.
+- **Top 15 Finalist, Nexhack (Sept 2026):** Built Raksha zero-internet emergency mesh system.
+- **Summer Trainee in Applied AI (ShapeMySkills / DUCAT):** Built LegalMind AI contract analysis capstone on 510 legal agreements with interactive Power BI dashboards.
+- **Campus Leadership:** Elected Class Representative for BCA cohort; active speaker and event coordinator in the Lafz Debate & Literary Society.
+
+---
+
+## Let's Connect
+
+- **Portfolio:** [kanan-at-work.web.app](https://kanan-at-work.web.app)
+- **LinkedIn:** [linkedin.com/in/kanan-jain-762785298](https://www.linkedin.com/in/kanan-jain-762785298)
+- **GitHub:** [github.com/kananjn45](https://github.com/kananjn45)
+- **Email:** [kananjn45@gmail.com](mailto:kananjn45@gmail.com)
 
 ---
 
 <div align="center">
 
-Built with a product-first mindset and a love for shipping ideas that matter.
+<sub>Crafted with intention, empathy, and code. Zero synthetic emojis.</sub>
 
 </div>
