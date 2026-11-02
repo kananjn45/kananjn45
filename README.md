@@ -1,195 +1,124 @@
 <div align="center">
 
-# Hi there, I'm Kanan Jain! 👋
+# Kanan Jain
 
-![Profile Views](https://komarev.com/ghpvc/?username=kananjn45&color=C084B0&style=flat-square&label=Profile+Views)
+A product-minded developer building AI-powered experiences, polished interfaces, and hackathon-ready products.
 
-### 🎯 Frontend + Firebase Lead | BCA @ IITM Delhi (2025–2030)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kanan-at-work.web.app-84A282?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kanan-at-work.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanan_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanan-jain-762785298)
+[![Email](https://img.shields.io/badge/Email-kananjn45%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kananjn45@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-```javascript
-const kananJain = {
-    location: "Delhi, India",
-    education: "BCA @ IITM Delhi (2025–2030)",
-    currentFocus: ["AI-Powered Products", "Firebase Architecture", "Hackathons"],
-    interests: ["Frontend Development", "Full-Stack", "AI/ML Integration"],
-    technologies: {
-        frontend: ["HTML5", "CSS3", "JavaScript ES6+", "Bootstrap 5"],
-        backend: ["Firebase (Auth & Firestore)", "Python", "PHP", "SQL"],
-        aiTools: ["OpenCV", "DeepFace", "Pandas", "NumPy", "Matplotlib"],
-        tools: ["Git", "GitHub", "VS Code", "Vercel", "Netlify", "Chrome DevTools"],
-    },
-    funFact: "I ship AI products at hackathon speed and call it a weekend 🚀"
-};
-```
+I build digital products that combine strong frontend experience with practical AI and Firebase architecture. My work sits at the intersection of user experience, product thinking, and rapid execution, with a strong bias for shipping projects that matter.
 
-I build AI-powered products that actually ship. Frontend and Firebase lead on **Cognify** — real-time emotion detection for neurodivergent kids. Hackathons are my rhythm.
+Currently focused on:
+- AI-powered product experiences
+- Frontend and full-stack product development
+- Firebase architecture and workflow design
+- Hackathons, prototypes, and real-world deployment
+
+Education: BCA at IITM Delhi (2025-2030)
 
 ---
 
-## 📊 GitHub Statistics
+## Core Stack
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=kananjn45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kananjn45/kananjn45/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-</p>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 [Cognify: AI-Powered Adaptive Learning Platform](https://cognify-fawn.vercel.app)
-An AI platform for children with ADHD, ASD, and Dyslexia — built under a 36-hour hackathon sprint.
+### [Cognify](https://github.com/kananjn45/Cognify)
+AI-powered adaptive learning companion for children with developmental differences. Built to adjust visual, auditory, and pacing cues in real time based on emotional and engagement signals.
 
-**Key Features:**
-- 🎥 Real-time emotion detection via OpenCV + DeepFace at 50ms refresh cycles
-- 🔐 Firebase Auth with 3 user roles (student, parent, provider) and secured Firestore queries
-- 🗄️ Co-architected 11-collection Firestore schema with null-safe security rules
-- 📊 Role-specific dashboards for adaptive learning adjustments
-- 🚀 Production-deployed on Vercel under tight hackathon timeline
+Tech: React, Firebase, OpenCV, Python
 
-**Tech Stack:** React, Firebase (Auth & Firestore), Python, OpenCV, DeepFace, Vercel
+### [BingeBuddy](https://github.com/kananjn45/BingeBuddy)
+Real-time synchronized video watch party platform with live chat and shared viewing experiences.
 
----
+Tech: TypeScript, WebSockets, Full-Stack
 
-### 🗳️ [ElectionWise: AI Election Guidance Assistant](https://election-wise-cff9.vercel.app)
-Built for hack2skills Promptwars 2026 — an AI-powered assistant to help voters navigate elections with clarity.
+### [ORCA-Intel](https://github.com/kananjn45/ORCA-Intel)
+Safe sea navigation solution for fishermen with offline alerts and voice-driven assistance.
 
-**Tech Stack:** Python, Vercel
+Tech: Flutter, Python, FastAPI, Firebase, Bhashini Voice AI
 
----
+### [Climate Change ML & DA](https://github.com/kananjn45/Climate-Change-ML-DA)
+Data analysis and predictive modeling project focused on climate trends and environmental patterns using machine learning and statistical analysis.
 
-### 📊 [Climate Change Analysis & Prediction](https://github.com/kananjn45/Climate-Change-ML-DA)
-ML-driven analysis of Indian climate patterns across 10 states (2000–2025), with regression and classification models predicting temperature and drought conditions.
-**Key Features:**
-- 🌡️ Temperature regression across 6 models (Linear Regression, Decision Tree, Random Forest, Gradient Boosting, SVR, KNN)
-- ⚠️ Drought classification across 7 models (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, SVC, KNN, GaussianNB), with accuracy comparison across all
-- 📈 EDA visualizations (regplot, scatterplot, boxplot, correlation heatmap) revealing seasonal rainfall patterns and temperature-humidity relationships
-- 🔍 Feature engineering with leakage-aware column selection per target variable
-**Tech Stack:** Python, Pandas, Scikit-learn, Seaborn, Matplotlib
+Tech: Python, Pandas, Scikit-learn, Jupyter Notebook
 
----
+### [ElectionWise](https://github.com/kananjn45/Election-Wise)
+AI-driven election guidance assistant designed to help users better understand voting information and civic processes.
 
-### 💰 [Expense Tracker](https://github.com/kananjn45/Expense-Tracker)
-Full-stack financial management platform with multi-category budgeting, secure auth, and visual dashboards.
+Tech: JavaScript, AI integration, Web App
 
-**Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript
+### [Expense Tracker](https://github.com/kananjn45/Expense-Tracker)
+Financial management platform for budgeting, tracking expenses, and visualizing money habits.
 
----
+Tech: PHP, MySQL, JavaScript, HTML, CSS
 
-### 📚 [Book Haven](https://kananjn45.github.io/book-haven/)
-Fully responsive e-commerce bookstore — zero frameworks, pure vanilla JS.
+### [Book Haven](https://github.com/kananjn45/book-haven)
+Responsive bookstore website with catalogue browsing, cart management, and a strong front-end experience.
 
-**Key Features:**
-- 🔍 Real-time search by title and author
-- 🛒 Shopping cart with quantity management and localStorage persistence
-- 📱 CSS Grid layout with Bootstrap 5
+Tech: HTML, CSS, JavaScript, Bootstrap
 
-**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap 5
+### [Adventure Game](https://github.com/kananjn45/adventure-game)
+Interactive text-and-UI dungeon game built with Python and Tkinter, designed as a playful exploration project.
+
+Tech: Python, Tkinter
 
 ---
 
-## 🏆 Hackathons & Competitions
+## Product & Engineering Philosophy
 
-- 🥇 **hack2skills Promptwars (2026)** — Built and deployed ElectionWise, an AI election guidance assistant
-- ⚡ **Matrix Hackathon (April 2026)** — Frontend + Firebase lead on Cognify; shipped production system with real-time emotion detection in 36 hours
-- 🎖️ **Dextrix Hackathon (February 2026)** — Top 6 out of 75 teams
+I care about building experiences that feel polished, useful, and intentional. My process usually blends:
+- strong UI and interaction design
+- real-world problem framing
+- product thinking and rapid iteration
+- technical implementation with maintainability in mind
 
----
-
-## 💡 What I'm Up To
-
-- 🔥 Deepening expertise in **JavaScript** and **Firebase architecture**
-- 🤖 Integrating AI/ML into real-world web products
-- 📊 Expanding into data science with Python (Pandas, scikit-learn)
-- 🎨 Building pixel-perfect, accessible UIs
-- 🚀 Always ready for the next hackathon
+I like projects that combine software engineering with social impact, learning, and clear user value.
 
 ---
 
-## 📈 2026 Roadmap
+## Achievements
 
-```javascript
-const goals = {
-  now: [
-    "Ship more AI-integrated projects",
-    "Deepen Data Structures & Algorithms",
-    "Strengthen Firebase security & architecture patterns"
-  ],
-  soon: [
-    "Learn React for component-based UIs",
-    "Explore Node.js and REST API design",
-    "Build a full ML pipeline (data → model → deployment)",
-    "Contribute to open-source"
-  ]
-};
-```
+- Frontend + Firebase lead on Cognify
+- Hackathon-driven product building across multiple domains
+- Experience across AI integrations, frontend systems, and data-heavy projects
+- Strong interest in building interesting, deployable products under real constraints
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-<p align="center">
-  <a href="https://kanan-at-work.web.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-0C0B11?style=for-the-badge&logo=google-chrome&logoColor=C084B0"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kanan-jain-762785298">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kananjn45@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/enchanted_kanann">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ⚡ Fun Facts
-
-- 🧠 I shipped an emotion-detection AI for kids at a hackathon — and it actually worked
-- 🐛 Debugging is just archaeology with more coffee ☕
-- 🎨 I care as much about the UI feeling right as the code being clean
-- 🏆 Top 6 out of 75 teams and still hungry for more
-- 🚀 If it doesn't ship, it didn't happen
+- Portfolio: https://kanan-at-work.web.app/
+- LinkedIn: https://www.linkedin.com/in/kanan-jain-762785298
+- Email: kananjn45@gmail.com
 
 ---
 
 <div align="center">
-  <b>Thanks for stopping by! Always open to collabs, hackathons, and interesting problems. 🚀</b>
-</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer Wave" />
-</p>
+Built with a product-first mindset and a love for shipping ideas that matter.
 
-<div align="center">
-  Made with ❤️ and lots of ☕ by Kanan Jain
 </div>
